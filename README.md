@@ -2,4 +2,4 @@
 
 Hi. I’m Martin, but you can also call me by my nickname Xyborg.
 
-I work as Lead SEO Manager at [Pets Deli](https://www.petsdeli.de/) 🐶❤️🐱. For more information about me, check out [my LinkedIn profile](https://www.linkedin.com/in/aberastegue/).
+I work as Lead SEO & SEA Manager at [Pets Deli](https://www.petsdeli.de/) 🐶❤️🐱. For more information about me, check out [my LinkedIn profile](https://www.linkedin.com/in/aberastegue/).
