@@ -2,6 +2,8 @@
 
 **Lead Search/AI Marketing Manager** · Berlin, Germany
 
+[![Martin Aberastegue](https://web.archive.org/web/20200917173132im_/https://camo.githubusercontent.com/bf7d1ef55d4b307985a904f021cf233be3b00caa/68747470733a2f2f7777772e6c65696465656d61726b6574696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30382f7879626f72672d62616e6e65722e6a7067)](https://www.linkedin.com/in/aberastegue/)
+
 With 24+ years at the intersection of marketing, data, and technology, I build open-source tools for security & privacy, AI marketing, and travel — and help companies turn search, content, and AI into measurable growth.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aberastegue-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aberastegue/)
@@ -9,8 +11,6 @@ With 24+ years at the intersection of marketing, data, and technology, I build o
 [![Website](https://img.shields.io/badge/Web-martinaberastegue.com-white?style=flat)](https://www.martinaberastegue.com/)
 [![Torito](https://img.shields.io/badge/Org-ToritoIO-blue?style=flat&logo=github)](https://github.com/ToritoIO)
 [![emergOS](https://img.shields.io/badge/Org-emergOS-red?style=flat&logo=github)](https://github.com/emergOS)
-
-[![Martin Aberastegue](https://web.archive.org/web/20200917173132im_/https://camo.githubusercontent.com/bf7d1ef55d4b307985a904f021cf233be3b00caa/68747470733a2f2f7777772e6c65696465656d61726b6574696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30382f7879626f72672d62616e6e65722e6a7067)](https://www.linkedin.com/in/aberastegue/)
 
 ---
 
