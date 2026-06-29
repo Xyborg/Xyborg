@@ -4,13 +4,39 @@
 
 [![Martin Aberastegue](https://web.archive.org/web/20200917173132im_/https://camo.githubusercontent.com/bf7d1ef55d4b307985a904f021cf233be3b00caa/68747470733a2f2f7777772e6c65696465656d61726b6574696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30382f7879626f72672d62616e6e65722e6a7067)](https://www.linkedin.com/in/aberastegue/)
 
-With 24+ years at the intersection of marketing, data, and technology, I build open-source tools for security & privacy, AI marketing, and travel — and help companies turn search, content, and AI into measurable growth.
+With 24+ years at the intersection of marketing, data, and technology, I build open-source tools for security & privacy, emergency response, AI marketing, and travel — and help companies turn search, content, and AI into measurable growth.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aberastegue-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/aberastegue/)
 [![X](https://img.shields.io/badge/Twitter-@Xyborg-black?style=flat&logo=x)](https://x.com/Xyborg)
 [![Website](https://img.shields.io/badge/Web-martinaberastegue.com-white?style=flat)](https://www.martinaberastegue.com/)
 [![Torito](https://img.shields.io/badge/Org-ToritoIO-blue?style=flat&logo=github)](https://github.com/ToritoIO)
 [![emergOS](https://img.shields.io/badge/Org-emergOS-red?style=flat&logo=github)](https://github.com/emergOS)
+
+---
+
+## 🤖 AI & Marketing Tech
+
+| Project | Description |
+|---|---|
+| [**ConversoKit**](https://conversokit.com) | Open-source framework for production-ready ChatGPT Apps, 19 widgets, 16 MCP tools, 5 templates, ship in under 30 min |
+| [**FeedSpit**](https://feedsplit.com) | Turn any product feed into campaign-ready assets for Google Shopping & Performance Max |
+| **Free Google Ads GCLID Decoder** | Decode Google Click IDs to extract timestamps and tracking data |
+| **IGBIO** | Links-in-bio with a music landing page that converts |
+
+---
+
+## 🚨 Emergency Response — [emergOS](https://github.com/emergOS)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/emergOS/emergOS/main/emergos-banner.png" alt="emergOS banner" width="50%">
+</p>
+
+> A calm crisis console for emergencies.
+
+| Project | Description |
+|---|---|
+| [**emergOS**](https://github.com/emergOS/emergOS) | Open-source emergency coordination interface with urgent action tiles, missing/found reports, resource directories, emergency contacts, and verification notes |
+| [**emergos.org**](https://emergos.org) | Minimal public landing page for the project while the tool is being built |
 
 ---
 
@@ -29,24 +55,13 @@ With 24+ years at the intersection of marketing, data, and technology, I build o
 
 ---
 
-## 🤖 AI & Marketing Tech
-
-| Project | Description |
-|---|---|
-| [**ConversoKit**](https://conversokit.com) | Open-source framework for production-ready ChatGPT Apps, 19 widgets, 16 MCP tools, 5 templates, ship in under 30 min |
-| [**FeedSpit**](https://feedsplit.com) | Turn any product feed into campaign-ready assets for Google Shopping & Performance Max |
-| **Free Google Ads GCLID Decoder** | Decode Google Click IDs to extract timestamps and tracking data |
-| **IGBIO** | Links-in-bio with a music landing page that converts |
-
----
-
 ## ✈️ Travel
 
 | Project | Description |
 |---|---|
 | [**Viajo**](https://www.viajo.org) | Travel blog covering experiences and destinations — online since 2007 |
 | **AI Travel Itineraries** | Smart travel planning powered by AI |
-| [**Reclamtos**](https://reclamitos.com) | Helps passengers claim compensation for flight delays and cancellations |
+| [**Reclamitos**](https://reclamitos.com) | Helps passengers claim compensation for flight delays and cancellations |
 | [**RoamLuna**](https://roamluna.com) | Global travel API with monthly data covering 100+ destinations |
 
 ---
