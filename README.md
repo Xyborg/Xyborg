@@ -1,6 +1,6 @@
 ## Hi, I'm Martin (Xyborg) 👋
 
-**Lead Search/AI Marketing Manager** · Berlin, Germany
+**Senior SEO & GEO Leader | Marketing Engineering & AI Discoverability** · Berlin, Germany
 
 <img width="1500" height="500" alt="Martin Aberastegue" src="https://github.com/user-attachments/assets/e8cc37b6-9e1f-44dd-be20-2bbd68aa7ca8" />
 
