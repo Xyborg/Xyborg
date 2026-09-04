@@ -2,7 +2,8 @@
 
 **Lead Search/AI Marketing Manager** · Berlin, Germany
 
-[![Martin Aberastegue](https://web.archive.org/web/20200917173132im_/https://camo.githubusercontent.com/bf7d1ef55d4b307985a904f021cf233be3b00caa/68747470733a2f2f7777772e6c65696465656d61726b6574696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30382f7879626f72672d62616e6e65722e6a7067)](https://www.linkedin.com/in/aberastegue/)
+<img width="1500" height="500" alt="Martin Aberastegue" src="https://github.com/user-attachments/assets/e8cc37b6-9e1f-44dd-be20-2bbd68aa7ca8" />
+
 
 With 24+ years at the intersection of marketing, data, and technology, I build open-source tools for security & privacy, emergency response, AI marketing, and travel — and help companies turn search, content, and AI into measurable growth.
 
