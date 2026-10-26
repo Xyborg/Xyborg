@@ -63,7 +63,7 @@ With 24+ years at the intersection of marketing, data, and technology, I build o
 | [**Viajo**](https://www.viajo.org) | Travel blog covering experiences and destinations — online since 2007 |
 | **AI Travel Itineraries** | Smart travel planning powered by AI |
 | [**Reclamitos**](https://reclamitos.com) | Helps passengers claim compensation for flight delays and cancellations |
-| [**RoamLuna**](https://roamluna.com) | Global travel API with monthly data covering 100+ destinations |
+| [**RoamLuna**](https://roamluna.com) | Country and regional travel eSIMs for your next trip |
 
 ---
 
